@@ -1,6 +1,6 @@
 # AgriGenAI: Foundational Gen AI for Agriculture
 
-![AgriGenAI Logo](path/to/your-logo.png) <!-- Add a simple ag-themed image later for visual pop -->
+![AgriGenAI Logo](assets/optimized-agrigenai-logo.png) <!-- Add a simple ag-themed image later for visual pop -->
 
 ## Overview
 AgriGenAI is a transformative Generative AI foundational model tailored for Indian agriculture. Built by [AgriCPS](https://www.agricps.co), it empowers over 150 million farmers with instant, localized knowledge—starting with a Retrieval-Augmented Generation (RAG) architecture grounded in trusted sources like ICAR and state universities. 
